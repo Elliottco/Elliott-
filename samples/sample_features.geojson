@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Route Alpha",
+        "timestamp": "2025-01-02T09:00:00Z",
+        "priority": "medium"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-122.42, 37.77],
+          [-121.89, 37.33],
+          [-121.49, 38.58]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Operations Zone",
+        "timestamp": "2025-01-04T14:45:00Z",
+        "priority": "high"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-118.50, 34.20],
+            [-118.20, 34.20],
+            [-118.20, 33.95],
+            [-118.50, 33.95],
+            [-118.50, 34.20]
+          ]
+        ]
+      }
+    }
+  ]
+}
