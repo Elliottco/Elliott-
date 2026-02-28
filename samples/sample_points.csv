@@ -1,0 +1,4 @@
+lat,lon,name,timestamp,category,notes
+37.7749,-122.4194,San Francisco Node,2025-01-01T10:00:00Z,city,west coast reference
+34.0522,-118.2437,Los Angeles Node,2025-01-02T08:30:00Z,city,southern california
+40.7128,-74.0060,NYC Node,2025-01-03T12:15:00Z,city,east coast
